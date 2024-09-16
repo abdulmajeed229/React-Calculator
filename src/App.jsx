@@ -1,8 +1,7 @@
-import React, { useState } from "react";
+import React from "react";
+import { useState } from "react" ;
 
 function App(){
-
-
 
   const [sum , setSum] = useState('')
 
